@@ -12,7 +12,7 @@ int main()
 	return 0;
 }
 
-int fibonacci(int n)
+int fibonacci(int n)	//fibonacci function
 {
 	int F[n + 1], i;
 	F[0] = 0; F[1] = 1;

@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int fibonacci(int n);
 
 int main()
@@ -12,7 +11,7 @@ int main()
 	return 0;
 }
 
-int fibonacci(int n)
+int fibonacci(int n)		//fibonacci function
 {
 	if (n <= 1)
 		return n;
