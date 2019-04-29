@@ -11,7 +11,7 @@ int main()
 	return 0;
 }
 
-int fibonacci(int n)		//fibonacci function
+int fibonacci(int n)
 {
 	if (n <= 1)
 		return n;
